@@ -957,11 +957,11 @@
       <Game>Titanfall 2</Game>
     </Games>
     <URLs>
-      <URL>https://raw.githubusercontent.com/drtchops/asl/master/titanfall2.asl</URL>
+      <URL>https://raw.githubusercontent.com/Fzzy2j/Titanfall-2-Autosplitter/master/titanfall2.asl</URL>
     </URLs>
     <Type>Script</Type>
-    <Description>Load Removal is available. (By DrTChops)</Description>
-    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+    <Description>Autosplitter is available. (By Fzzy2j)</Description>
+    <Website>https://github.com/Fzzy2j/Titanfall-2-Autosplitter/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -1912,6 +1912,22 @@
     </URLs>
     <Type>Script</Type>
     <Description>Game Time is available. (By CursedToast)</Description>
+  </AutoSplitter>
+<AutoSplitter>
+    <Games>
+	<Game>RE4</Game>
+	<Game>Resident Evil 4 (Steam)</Game>
+	<Game>Resident Evil 4</Game>
+	<Game>Bio4</Game>
+	<Game>Biohazard 4</Game>
+	<Game>Resident Evil 4 Ultimate HD</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Wipefinger/development/master/RE4.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting and Load Removal are available. (By Pitted &amp; Wipefinger)</Description>
+    <Website>https://github.com/Wipefinger/development/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -5850,7 +5866,7 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
-      <Game>Trine</Game>
+      <Game>Trine Enchanted Edition</Game>
     </Games>
     <URLs>
       <URL>https://raw.githubusercontent.com/MaximumLeech/Autosplitters/master/Trine1.asl</URL>
@@ -5868,6 +5884,17 @@
     </URLs>
     <Type>Script</Type>
     <Description>IGT Timer (by Maximum Leech)</Description>
+    <Website>https://github.com/MaximumLeech/Autosplitters</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Trine 3: The Artifacts of Power</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/MaximumLeech/Autosplitters/master/Trine3.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Remover (by Maximum Leech)</Description>
     <Website>https://github.com/MaximumLeech/Autosplitters</Website>
   </AutoSplitter>
   <AutoSplitter>
@@ -6103,11 +6130,11 @@
 		<Game>Vectronom</Game>
 	</Games>
 	<URLs>
-		<URL>https://raw.githubusercontent.com/badBlackShark/VectronomAutosplitter/master/LiveSplit.Vectronom.asl</URL>
+		<URL>https://raw.githubusercontent.com/badBlackShark/ASL-Scripts/master/LiveSplit.Vectronom.asl</URL>
 	</URLs>
 	<Type>Script</Type>
 	<Description>Automatic splitting and load removing for Vectronom on Steam (by badBlackShark)</Description>
-	<Website>https://discord.gg/G4GWJwD</Website>
+	<Website>https://discord.gg/ludopium</Website>
 </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -6189,4 +6216,48 @@
     <Type>Script</Type>
     <Description>Autosplitting and load removal are available. (by SuicideMachine)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Tarzan</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/hdc0/LiveSplit-asl/master/Tarzan.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting is available. (By hdc0)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>The Operative: No One Lives Forever</Game>
+    </Games>
+    <URLs>
+      <URL>https://gist.githubusercontent.com/poacher2k/4655b01681705d67b277de8046397cce/raw/cdc63f54a365a9a93e611a0e11e260ac5e95dc8c/nolf1.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic starts, splits and resets, as well as load removal. (by poacher2k, all pointers by TheTedder)</Description>
+   </AutoSplitter>
+   <AutoSplitter>
+    <Games>
+     <Game>God's Trigger</Game>
+    </Games>
+    <URLs>
+     <URL>https://raw.githubusercontent.com/badBlackShark/ASL-Scripts/master/LiveSplit.GodsTrigger.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting, Load Removing and counters for remaining enemies and deaths. (by badBlackShark)</Description>
+    <Website>https://discord.gg/QyRZj8G</Website>
+   </AutoSplitter>
+   <AutoSplitter>
+    <Games>
+      <Game>Soldier of Fortune 2</Game>
+      <Game>Soldier of Fortune II</Game>
+      <Game>Soldier of Fortune 2: Double Helix</Game>
+      <Game>Soldier of Fortune II: Double Helix</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Soldier-of-Fortune-2/SOF2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting and load removal are available. (by SuicideMachine)</Description>
+   </AutoSplitter>
 </AutoSplitters>
